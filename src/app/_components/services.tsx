@@ -50,7 +50,26 @@ export function Services() {
           </div>
         </div>
       </section>
+
+      <div className="container-service"
+          data-aos="flip-left"
+          data-aos-easing="ease-out-cubic"
+          data-aos-duration="2000"> 
+
+              <a 
+                href="https://agendeonline.salonsoft.com.br/barbearia_prime" 
+                className="service-button" 
+                target="_blank"
+                >
+                    Agendar Horário
+                </a>
+      
+      </div>
+
     </section>
+                    
+     
+       
   );
 }
 
