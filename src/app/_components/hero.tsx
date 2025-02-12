@@ -9,7 +9,18 @@ import { FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr";
         <header>
             <nav className="header-content container">
                 
-                <div className="header-icons"  
+                
+                    
+                    <div className="header-logo" 
+                    data-aos="fade-up"
+                    data-aos-duration="3000"
+                    >
+                        
+                    <img src="/assets/logo-prime.svg"
+                        alt="Logo da Barbearia"/>
+                    </div>
+
+                    <div className="header-icons"  
                 data-aos="fade-down"
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="3000">
@@ -19,7 +30,7 @@ import { FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr";
                 href="https://www.instagram.com/barbeariaaprime/" 
                 target="_blank"
                 >
-                <FacebookLogo className="footer-icons" />
+                <FacebookLogo className="header-icons" />
                 </a>
                     
 
@@ -27,20 +38,10 @@ import { FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr";
                 href="https://www.facebook.com/barbeariaaprime"
                 target="_blank"
                 >
-                <InstagramLogo className="footer-icons" />
+                <InstagramLogo className="header-icons" />
                 </a>
-
-
-                    
                 </div>
-                    <div className="header-logo" 
-                    data-aos="fade-up"
-                    data-aos-duration="3000"
-                    >
-                        
-                    <img src="/assets/logo-prime.svg"
-                        alt="Logo da Barbearia"/>
-                    </div>
+
                     
                     <div data-aos="flip-left"
                     data-aos-easing="ease-out-cubic"

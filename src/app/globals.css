@@ -23,12 +23,15 @@ i {
 
 .header-icons {
   display: flex;
-  gap: 30px;
+  gap: 40px;
+  margin-top: 20px;
+  height: 30px;
+  color: #ffff;
 }
 
-.header-icons a:hover i {
-  animation: translateY 0.8s infinite alternate;
-  color: #d34040;
+.header-icons:hover {
+  animation: translateY 1.5s infinite alternate;
+  color: red;
 }
 
 @keyframes translateY {
