@@ -17,10 +17,13 @@ import {
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="3000">
                     
+
                 <a 
                 href="https://www.instagram.com/barbeariaaprime/" 
                 target="_blank"
                 >
+                   
+
                         <i className="fa-brands fa-instagram fa-2x" ></i>
                     </a>
 
