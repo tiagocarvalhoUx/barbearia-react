@@ -1,8 +1,7 @@
 import {
     FacebookLogo,
     InstagramLogo,
-    LinkedinLogo,
-    GithubLogo,
+        
   } from "@phosphor-icons/react/dist/ssr";
 
   export function Hero () {
