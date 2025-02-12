@@ -1,3 +1,4 @@
+import { FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr";
 
 
   export function Hero () {
@@ -18,18 +19,17 @@
                 href="https://www.instagram.com/barbeariaaprime/" 
                 target="_blank"
                 >
-                   
+                <FacebookLogo className="footer-icons" />
+                </a>
+                    
 
-                        <i className="fa-brands fa-instagram fa-2x" ></i>
-                    </a>
+                <a 
+                href="https://www.facebook.com/barbeariaaprime"
+                target="_blank"
+                >
+                <InstagramLogo className="footer-icons" />
+                </a>
 
-
-                    <a 
-                    href="https://www.facebook.com/barbeariaaprime"
-                    target="_blank"
-                    >
-                        <i className="fa-brands fab fa-facebook fa-2x" ></i>
-                    </a>
 
                     
                 </div>

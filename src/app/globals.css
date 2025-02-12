@@ -74,6 +74,10 @@ i {
   font-weight: 600;
 }
 
+.elite:hover {
+  animation: scaleButton 1.5s alternate infinite;
+} 
+
 @media screen and (max-width: 768px) {
   .header-content {
     width: 100%;
@@ -307,10 +311,16 @@ i {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5px 0;
-  gap: 20px;
+  height: 30px;
+  gap: 30px;
   color: #ffffff;
 }
+ .footer-icons:hover {
+  animation: scaleButton 1.5s alternate infinite;
+} 
+
+
+  
 
 .btn-whatsapp {
   position: fixed;

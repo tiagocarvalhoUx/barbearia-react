@@ -1,3 +1,5 @@
+import {FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr"
+
 export function Footer() {
   return (
     <section>
@@ -25,11 +27,11 @@ export function Footer() {
           data-aos-delay="200"
         >
           <a href="https://www.instagram.com/barbeariaaprime/" target="_blank">
-            <i className="fa-brands fa-instagram fa-2x"></i>
+            <InstagramLogo className="footer-icons" />
           </a>
 
           <a href="https://www.facebook.com/barbeariaaprime" target="_blank">
-            <i className="fa-brands fab fa-facebook fa-2x"></i>
+          <FacebookLogo className="footer-icons"/>
           </a>
         </div>
 
@@ -66,3 +68,4 @@ export function Footer() {
     </section>
   );
 }
+
