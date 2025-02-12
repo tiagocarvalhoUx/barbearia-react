@@ -4,7 +4,7 @@ export function Footer() {
       {/* <!--Footer--> */}
 
       <div className="services">
-        <h2>Venha Conhecer!</h2>
+        <h2>Venha Conhecer e Se Surpreenda!</h2>
       </div>
 
      

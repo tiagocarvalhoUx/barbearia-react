@@ -12,6 +12,7 @@ export function About() {
           data-aos-duration="500"
         >
           <h2>Sobre</h2>
+          <br/>
           <p>
             Bem-vindo à Barbearia Prime – Estilo e Tradição para Homens de
             Atitude Na Barbearia Prime, não oferecemos apenas cortes de cabelo e
