@@ -11,8 +11,7 @@ export function Services() {
           bem cuidada – Técnicas precisas para modelagem, hidratação e
           acabamento perfeito da sua barba. Tratamentos especiais – Hidratação
           capilar, relaxamento e outros serviços para manter seu visual
-          impecável. Atendimento diferenciado – Conforto, qualidade e um momento
-          de relaxamento enquanto cuidamos de você.
+          impecável. Atendimento diferenciado!
         </p>
       </div>
 
