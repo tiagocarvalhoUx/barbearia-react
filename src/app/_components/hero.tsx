@@ -27,7 +27,7 @@ import { FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr";
                     
 
                 <a 
-                href="https://www.instagram.com/barbeariaaprime/" 
+                href="https://www.facebook.com/barbeariaaprime"     
                 target="_blank"
                 >
                 <FacebookLogo className="header-icons" />
@@ -35,7 +35,7 @@ import { FacebookLogo, InstagramLogo } from "@phosphor-icons/react/dist/ssr";
                     
 
                 <a 
-                href="https://www.facebook.com/barbeariaaprime"
+                href="https://www.instagram.com/barbeariaaprime/"
                 target="_blank"
                 >
                 <InstagramLogo className="header-icons" />
